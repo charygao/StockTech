@@ -1,0 +1,13 @@
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\MainWindow.baml
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\MainWindow.g.cs
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\App.g.cs
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\DayImporter_MarkupCompile.cache
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\DayImporter.g.resources
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\StockTools.Properties.Resources.resources
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\bin\Release\DayImporter.exe
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\bin\Release\DayImporter.pdb
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\DayImporter.exe
+E:\Projects\StockTech\New\StockTools\DayImporter\DayImporter\obj\x86\Release\DayImporter.pdb
